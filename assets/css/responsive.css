@@ -1,0 +1,607 @@
+
+@media (max-width: 575.98px) {
+
+
+  .BG {
+    height: 1379px;
+    /* background: #0F1145; */
+  }
+
+  #heder_part {
+    padding-top: 40px;
+  }
+  
+  .email h3 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 23px;
+    text-align: center;
+    color: #F2994A;
+  }
+
+  /* .row{
+    text-align: center;
+  } */
+
+  .Text_part{
+      text-align: center;
+  }
+  .manu_part button i {
+    color: white;
+    font-size: 22px;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .login_part {
+    float: none;
+    display: flex;
+    justify-content: center;
+  }
+
+  .manu_part ul {
+    padding-top: 25px;
+  }
+
+  .manu_part ul li a {
+    margin: 0px;
+    font-size: 15px;
+
+  }
+
+
+  #banner_part {
+    padding-top: 80px;
+  }
+
+
+  .Run {
+    margin-top: 180px;
+  }
+
+  .Run .img img {
+    width: 80% !important;
+  }
+
+  #service_part{
+    background: #040D3E;
+  }
+
+  #sopnser_head{
+    background: #040D3E !important;
+  }
+
+
+  #sopnser_head {
+/*     margin-top: 0px; */
+    padding-bottom: 100px !important;
+  }
+
+
+  .sape-img img {
+    display: none;
+  }
+
+  .sponser {
+    flex-wrap: wrap;
+    /* background-color: red; */
+    justify-content: space-around;
+
+  }
+
+  .sponser img {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  #business_part .bus_text h2 {
+
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+
+ 
+
+  #business_part {
+    padding-top: 15px;
+    height: 640px;
+  }
+
+  .bus_text span {
+    font-size: 30px;
+  }
+
+  .bus-img {
+    margin-top: 35px;
+  }
+
+  .bus-img img {
+    width: 100%;
+  }
+
+  .Infinity_head {
+    padding-top: 50px;
+  }
+
+  #framework_part {
+    padding-top: 220px;
+  }
+
+  .framework_head {
+    padding-top: 50px;
+  }
+
+  .framework_head h2,
+  .framework_head span {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .down-text h3 {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .down-text a {
+    margin-top: 30px;
+  }
+
+
+
+  #Invest_part {
+    padding-top: 0;
+    height: 809px;
+  }
+
+
+/* 
+  .card-men {
+    display: none;
+  } */
+
+  #Help_part{
+    position: relative;
+  }
+
+  .help-img{
+    position: absolute;
+    content: '';
+    left: 55px;
+    top: 550px;
+  }
+
+  .invest-img {
+    position: absolute;
+    left: 0px;
+    top: 32px;
+  }
+
+
+
+
+  .help-img img {
+    width: 88%;
+   
+  }
+
+  .help_down {
+    padding-top: 20px;
+    margin-left: 0;
+  }
+
+  .side-img-main {
+    display: none;
+  }
+
+  #Email_part {
+    width: 100%;
+    padding: 470px 0 0;
+  }
+
+  .back-img {
+    display: none;
+  }
+
+
+  .email {
+    width: 100%;
+    padding: 50px 0 !important;
+    padding-bottom: 40px;
+    position: static;
+    left: 0px;
+    top: 0px;
+  }
+
+  .form-control {
+    padding-left: 15px;
+    width: 100% !important;
+    color: white !important;
+    margin-left: 0;
+    background: rgba(151, 151, 151, 0.155);
+  }
+
+  #footer_part {
+    padding: 93px 0px 509px;
+    background: #040D3E !important;
+  }
+
+
+
+  .dot {
+    display: none;
+  }
+
+  .footer_head h4 {
+    margin-left: 0px;
+    text-align: center;
+    padding-bottom: 35px;
+  }
+
+  .head_icon {
+    float: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .footer_text {
+    margin: 0;
+    padding-top: 30px;
+  }
+
+  .position_footer {
+    position: absolute;
+    left: 27px;
+    top: -16px;
+  }
+/* framework part */
+  #framework_part {
+    padding-top: 259px;
+  }
+}
+
+
+@media (min-width:576px) and (max-width:767.98px) {
+
+  #heder_part {
+    padding-top: 40px;
+  }
+  
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  
+  .manu_part button i {
+    color: white;
+    font-size: 22px;
+  }
+
+
+  .login_part {
+    float: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  #banner_part {
+    padding-top: 50px;
+  }
+  .Text_part{
+    text-align: center;
+  }
+
+  .d-flex{
+    justify-content: center;
+  }
+
+  .Run{
+    z-index: -1;
+  }
+  
+  .sponser {
+    flex-wrap: wrap;
+    /* background-color: red; */
+    justify-content: space-around;
+
+  }
+
+  .sponser img {
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+
+  #service_part{
+    background: #040D3E;
+  }
+
+  .sape-img {
+    z-index: -1;
+  }
+
+  .bus-img{
+    margin-left: 180px;
+  }
+  .bus-img img{
+    width: 350px;
+  }
+
+
+  
+
+  #Invest_part {
+    padding-top: 0;
+    height: 741px;
+  }
+  #Help_part {
+    position: relative;
+  }
+
+  .help-img {
+    position: absolute;
+    content: '';
+    left: 55px;
+    top: 550px;
+  }
+
+  #Help_part {
+    background: #040D3E;
+    width: 100%;
+    height: 1049px;
+    padding-top: 5px;
+  }
+  .help-img {
+    left: 22px;
+    top: 455px;
+  }
+
+  .email {
+    padding: 14px 47px;
+    padding-bottom: 25px;
+    left: 18px;
+    top: -363px;
+  }
+
+
+  .form-control { 
+    margin-left: 24px;
+  }
+
+  #footer_part {
+    padding: 112px 0px 140px;
+    /* height: 550px; */
+  }
+
+  .position_footer {
+    position: absolute;
+    left: -83px;
+    top: -355px;
+  }
+
+  .invest-img {
+    position: absolute;
+    left: 63px;
+    top: 37px;
+  }
+
+  .head_icon{
+    
+      margin: -117px 0;
+    
+  }
+
+  #sopnser_head {
+    padding: 332px  0 117px;
+  }
+
+  .img img {
+    top: 27px;
+  }
+
+ 
+
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+
+  
+  #heder_part {
+    padding-top: 40px;
+  }
+  
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  
+  .manu_part button i {
+    color: white;
+    font-size: 22px;
+  }
+
+  .login_part {
+       text-align: center;
+  }
+
+
+  /* banner part */
+
+  #banner_part {
+    padding-top: 70px;
+  }
+
+  #sopnser_head {
+    padding: 428px  0 117px;
+  }
+  .Text_part .video_text {
+    text-align: center;
+  }
+
+  .img img {
+    top: 17px;
+    z-index: -1;
+  }
+
+  #service_part{
+    background-color: #040D3E;
+  }
+
+  .d-flex {
+    margin-left: 20px;
+    
+  }
+
+  .sponser  {
+    margin: 0px -40px;
+  }
+
+  .bus-img {
+    margin-left: 239px;
+    margin-top: -105px;
+  }
+
+  .sape-img {
+    z-index: -1;
+  }
+
+  .bus_text a {
+    margin-top: 99px;
+   
+  }
+
+
+
+  #Help_part {
+    position: relative;
+  }
+
+  .help-img {
+    position: absolute;
+    content: '';
+    left: 55px;
+    top: 550px;
+  }
+
+  #Invest_part {
+    height: 950px;
+   
+  }
+
+  .invest-img {
+    left: 253px;
+  }
+
+  #footer_part {
+    
+    padding: 112px 0px  430px;
+    /* height: 550px; */
+  }
+
+  .position_footer {
+    position: absolute;
+    left: -36px;
+    top: 900px;
+  }
+  .color{
+    display: none;
+  }
+
+  .help-img {
+    position: absolute;
+    content: '';
+    left: 119px;
+    top: 436px;
+  }
+
+  .back-img{
+    margin-top: 500px;
+  }
+
+  .email h3 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 31px;
+    text-align: center;
+    color: #F2994A;
+  }
+
+  .email {
+  
+    padding: 22px 22px;
+    padding-bottom: 40px;
+    position: absolute;
+    left: 129px;
+    top: -317px;
+    text-align: center;
+  }
+
+  .email p {
+   
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #95A1BB;
+    margin-top: 19px;
+  }
+  .email {
+    padding: 22px 22px;
+    padding-bottom: 59px;
+    position: absolute;
+    left: 48px;
+    top: -281px;
+    text-align: center;
+  }
+
+  .d-flex {
+    margin-left: -3px;
+  }
+
+  .position_footer {
+    top: -51px;
+  }
+  .head_icon {
+    float: right;
+    margin-top: -113px;
+  }
+
+}
+
+/* @media only screen and (min-width: 992px) {
+  #sopnser_head {
+    padding: 5px 0 117px;
+  }
+
+    
+  #heder_part {
+    padding-top: 40px;
+  }
+
+  .sponser img {
+    margin-left: 52px;
+    text-align: center;
+    margin-top: 39px;
+  }
+
+  .email {
+    background: rgba(60, 62, 125, 0.19);
+    backdrop-filter: blur(67px);
+    padding: 50px 67px;
+    padding-bottom: 40px;
+    position: absolute;
+    left: 108px;
+    top: -337px;
+  }
+
+  .position_footer {
+    position: absolute;
+    left: -56px;
+    top: -396px;
+  }
+} */
